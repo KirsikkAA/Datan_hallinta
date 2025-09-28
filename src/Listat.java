@@ -13,7 +13,7 @@ public class Listat {
         List<Integer>lista1 = new ArrayList<>();
         lista1.add(10);
         lista1.add(20);
-        System.out.println(" " + lista1);
+        System.out.println(" " + lista1);>
 
         //Tehtävä L3: Hae alkio listasta
         List<String>lista2 = new ArrayList<>();
